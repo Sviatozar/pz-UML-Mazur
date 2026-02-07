@@ -20,7 +20,13 @@
 
 ## Посилання на Діаграми
 ### Google Drive:
-*(Доступ наданий за електронною поштою andrii.zadvornyi@viti.edu.ua)*
+*Доступ наданий за електронною поштою:*
+<details>
+  <summary>Показати e-mail</summary>
+  andrii.zadvornyi@viti.edu.ua
+</details>
+
+---
 
 *Use-Case Diagram: https://drive.google.com/file/d/1Iuss0OdwztUC3nQ9kwaP2JSrxk0oJOzQ/view?usp=sharing*
 
